@@ -1,0 +1,20 @@
+{
+  "name": "rationalnumbers",
+  "version": "1.0.0",
+  "description": "It Is A Package Which Have Various Functions In It Which Include Various Functions Which Apply On Rational Numbers. It Is Non-Dependent Package.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "npm-package",
+    "javascript",
+    "fraction",
+    "rational",
+    "operation",
+    "maths"
+  ],
+  "author": "Aryan Garg",
+  "license": "MIT"
+}
